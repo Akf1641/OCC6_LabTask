@@ -1,6 +1,6 @@
 package w3hw;
 
-public class w3hw {
+public class Solution {
     public static void main(String[] args) {
         int[][] points = {{1, 1}, {2, 3}, {3, 2}};
         
